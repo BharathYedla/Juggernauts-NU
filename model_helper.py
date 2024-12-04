@@ -5,7 +5,9 @@ import warnings
 warnings.filterwarnings(action="ignore")
 import pandas as pd 
 pd.set_option('display.max_columns',None)
-
+##hiafiaodn
+#jkjksjrkjs
+#jjf@jfkj
 import matplotlib.pyplot as plt 
 import seaborn as sns
 import numpy as np
@@ -13,9 +15,7 @@ import tensorflow as tf
 import sympy as sym
 import networkx as nx
 
-##hiafiaodn
-#jkjksjrkjs
-#jjf@jfkj
+
 import keras
 import string
 import pickle
